@@ -2,7 +2,7 @@
   "mobUrl": "silkworm-queen.glb",
   "radius": 0.3,
   "height": 0.8,
-  "physicsPosition": [0, 0, 0],
+  "physicsPosition": [0, 0.25, 0],
   "idleAnimation": "idle",
   "walkAnimation": "walk",
   "walkSpeed": 0.000003,
